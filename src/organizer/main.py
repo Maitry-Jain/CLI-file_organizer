@@ -9,6 +9,7 @@ FILE_TYPES = {
     ".png": "Images",
     ".txt": "Text",
     ".mp3": "Audio",
+    ".zip":"Archives"
 }
 
 
